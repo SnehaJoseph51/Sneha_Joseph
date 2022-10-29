@@ -1,4 +1,0 @@
-# PYTHON AND DEEP LEARNING 
-
-
-
